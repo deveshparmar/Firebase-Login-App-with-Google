@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable-v24/bttn.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable-v24/button_background_blue.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable-v24/ic_login_hero.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable-v24/rounde_c.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable/background_grey.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable/background_white.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable/black_border.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable/dynamic_rv_bg.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable/dynamic_rv_item_layout.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable/round_menu.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable/round_searchbar.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable/static_rv_bg.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable/static_rv_selected_bg.xml" value="0.15347222222222223" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable/white_button.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/drawable/white_button2.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_dashboard.xml" value="0.176" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_forget_password_phone_no.xml" value="0.176" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_forget_password_success_msg.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_forgot_password.xml" value="0.264" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_login.xml" value="0.152" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_make_selection.xml" value="0.2" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_phone.xml" value="0.2" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_set_new_password.xml" value="0.264" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_sign_up.xml" value="0.152" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_splash_screen.xml" value="0.2668918918918919" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/activity_verify_otp.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/dynamic_rv_item_layout.xml" value="0.2" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/dynamic_rv_progress_bar.xml" value="0.1" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/fragment_account.xml" value="0.152" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/fragment_cart.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/fragment_search.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/layout/static_rv_item.xml" value="0.152" />
+        <entry key="..\:/Users/91851/OneDrive/Desktop/Android Dev/FoodyBitez/app/src/main/res/menu/nav_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

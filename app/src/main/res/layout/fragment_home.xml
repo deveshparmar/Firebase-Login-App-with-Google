@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".HomeFragment">
+
+      <androidx.constraintlayout.widget.ConstraintLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content">
+
+         <ImageView
+             android:id="@+id/imageView2"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="30dp"
+             android:layout_marginEnd="12dp"
+             android:src="@drawable/discount"
+             app:layout_constraintEnd_toStartOf="@+id/textView"
+             app:layout_constraintTop_toTopOf="parent" />
+
+         <TextView
+             android:id="@+id/textView"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="30dp"
+             android:layout_marginEnd="24dp"
+             android:text="Offers"
+             android:textColor="@color/black"
+             android:textSize="18dp"
+             app:layout_constraintEnd_toEndOf="parent"
+             app:layout_constraintTop_toTopOf="parent" />
+
+         <androidx.cardview.widget.CardView
+             android:id="@+id/cardView"
+             android:layout_width="180dp"
+             android:layout_height="130dp"
+             android:background="@color/white"
+             app:cardCornerRadius="10dp"
+             app:layout_constraintBottom_toBottomOf="parent"
+             app:layout_constraintEnd_toEndOf="parent"
+             app:layout_constraintHorizontal_bias="0.069"
+             app:layout_constraintStart_toStartOf="parent"
+             app:layout_constraintTop_toBottomOf="@+id/imageView2"
+             app:layout_constraintVertical_bias="0.08">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginStart="15dp"
+                   android:layout_marginTop="20dp"
+                   android:layout_marginEnd="5dp"
+                   android:text="Restaurants"
+                   android:textColor="@color/black"
+                   android:textSize="20dp"
+                   android:textStyle="bold" />
+
+               <ImageView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:scaleType="centerCrop"
+                   android:src="@drawable/foodcard2" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginStart="15dp"
+                   android:layout_marginTop="50dp"
+                   android:text="Enjoy your\nfavourite treats" />
+            </LinearLayout>
+
+         </androidx.cardview.widget.CardView>
+
+         <androidx.cardview.widget.CardView
+             android:id="@+id/cardView2"
+             android:layout_width="180dp"
+             android:layout_height="130dp"
+             android:background="@color/white"
+             app:cardCornerRadius="10dp"
+             app:layout_constraintBottom_toBottomOf="parent"
+             app:layout_constraintEnd_toEndOf="parent"
+             app:layout_constraintHorizontal_bias="0.93"
+             app:layout_constraintStart_toStartOf="parent"
+             app:layout_constraintTop_toBottomOf="@+id/imageView2"
+             app:layout_constraintVertical_bias="0.08">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginStart="15dp"
+                   android:layout_marginTop="20dp"
+                   android:text="Genie"
+                   android:textColor="@color/black"
+                   android:textSize="20dp"
+                   android:textStyle="bold" />
+
+               <ImageView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:scaleType="centerCrop"
+                   android:src="@drawable/foodcard4" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginStart="15dp"
+                   android:layout_marginTop="50dp"
+                   android:text="Anyting you\nneed deleivered" />
+            </LinearLayout>
+         </androidx.cardview.widget.CardView>
+
+         <androidx.recyclerview.widget.RecyclerView
+             android:id="@+id/recylerview1"
+             android:layout_width="match_parent"
+             android:layout_height="220dp"
+             android:layout_marginStart="10dp"
+             android:layout_marginEnd="10dp"
+             app:layout_constraintBottom_toBottomOf="parent"
+             app:layout_constraintEnd_toEndOf="parent"
+             app:layout_constraintHorizontal_bias="0.0"
+             app:layout_constraintStart_toStartOf="parent"
+             app:layout_constraintTop_toBottomOf="@+id/cardView"
+             app:layout_constraintVertical_bias="0.017" />
+
+         <!--         <androidx.recyclerview.widget.RecyclerView-->
+<!--             android:id="@+id/recylerview2"-->
+<!--             android:layout_width="match_parent"-->
+<!--             android:layout_height="match_parent"-->
+<!--             android:layout_marginStart="10dp"-->
+<!--             android:layout_marginTop="5dp"-->
+<!--             android:layout_marginEnd="10dp"-->
+<!--             app:layout_constraintBottom_toBottomOf="parent"-->
+<!--             app:layout_constraintEnd_toEndOf="parent"-->
+<!--             app:layout_constraintHorizontal_bias="1.0"-->
+<!--             app:layout_constraintStart_toStartOf="parent"-->
+<!--             app:layout_constraintTop_toBottomOf="@+id/recylerview1"-->
+<!--             app:layout_constraintVertical_bias="0.0" />-->
+
+
+      </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</ScrollView>

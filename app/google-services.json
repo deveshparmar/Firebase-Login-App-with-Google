@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837283389874",
+    "firebase_url": "https://foodybitez-default-rtdb.firebaseio.com",
+    "project_id": "foodybitez",
+    "storage_bucket": "foodybitez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837283389874:android:9715e1fe4c649bb60584ab",
+        "android_client_info": {
+          "package_name": "com.codewithdevesh.foodybitez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837283389874-u5e3lfpr151f8vr0q5sv73jl9e2bs8f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithdevesh.foodybitez",
+            "certificate_hash": "7e037aac542daeee17001460c9176d79e7804835"
+          }
+        },
+        {
+          "client_id": "837283389874-r4fhhbbq3o7ohlt7fng37gt58805rl86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy3OWxvgArxS7GUn1PISobNpMm-FRlJ1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837283389874-r4fhhbbq3o7ohlt7fng37gt58805rl86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
